@@ -1,0 +1,15 @@
+node_modules/
+.remotion/
+out/skyscraper/chunks/
+out/skyscraper/qa/
+out/skyscraper/*.jpg
+out/skyscraper/video.mp4
+out/skyscraper/final.mp4
+audio/_cache/
+audio/__pycache__/
+audio/stem_*.wav
+voice/raw_24k.wav
+voice/__pycache__/
+*.log
+.env
+.DS_Store

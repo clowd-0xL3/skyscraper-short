@@ -1,0 +1,1815 @@
+[
+  {
+    "word": "A",
+    "w": "A",
+    "line": 0,
+    "s": 0.06,
+    "e": 0.14
+  },
+  {
+    "word": "brand",
+    "w": "brand",
+    "line": 0,
+    "s": 0.16,
+    "e": 0.36
+  },
+  {
+    "word": "new",
+    "w": "new",
+    "line": 0,
+    "s": 0.38,
+    "e": 0.56
+  },
+  {
+    "word": "skyscraper",
+    "w": "skyscraper",
+    "line": 0,
+    "s": 0.58,
+    "e": 1.08
+  },
+  {
+    "word": "in",
+    "w": "in",
+    "line": 0,
+    "s": 1.1,
+    "e": 1.26
+  },
+  {
+    "word": "London",
+    "w": "London",
+    "line": 0,
+    "s": 1.28,
+    "e": 1.5
+  },
+  {
+    "word": "melted",
+    "w": "melted",
+    "line": 0,
+    "s": 1.52,
+    "e": 2.02
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 0,
+    "s": 2.04,
+    "e": 2.18
+  },
+  {
+    "word": "luxury",
+    "w": "luxury",
+    "line": 0,
+    "s": 2.2,
+    "e": 2.4
+  },
+  {
+    "word": "car",
+    "w": "car",
+    "line": 0,
+    "s": 2.42,
+    "e": 2.76
+  },
+  {
+    "word": "just",
+    "w": "just",
+    "line": 0,
+    "s": 2.78,
+    "e": 3.12
+  },
+  {
+    "word": "by",
+    "w": "by",
+    "line": 0,
+    "s": 3.14,
+    "e": 3.36
+  },
+  {
+    "word": "standing",
+    "w": "standing",
+    "line": 0,
+    "s": 3.38,
+    "e": 3.62
+  },
+  {
+    "word": "across",
+    "w": "across",
+    "line": 0,
+    "s": 3.64,
+    "e": 3.88
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 0,
+    "s": 3.9,
+    "e": 4.08
+  },
+  {
+    "word": "street.",
+    "w": "street.",
+    "line": 0,
+    "s": 4.1,
+    "e": 4.3
+  },
+  {
+    "word": "It's",
+    "w": "It's",
+    "line": 1,
+    "s": 4.52,
+    "e": 4.58
+  },
+  {
+    "word": "2013,",
+    "w": "2013,",
+    "line": 1,
+    "s": 4.58,
+    "e": 5.482
+  },
+  {
+    "word": "and",
+    "w": "and",
+    "line": 1,
+    "s": 5.56,
+    "e": 5.68
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 1,
+    "s": 5.7,
+    "e": 5.8
+  },
+  {
+    "word": "thirty-seven-story",
+    "w": "thirty-seven-story",
+    "line": 1,
+    "s": 5.8,
+    "e": 6.444
+  },
+  {
+    "word": "glass",
+    "w": "glass",
+    "line": 1,
+    "s": 6.5,
+    "e": 6.78
+  },
+  {
+    "word": "tower",
+    "w": "tower",
+    "line": 1,
+    "s": 6.8,
+    "e": 7.12
+  },
+  {
+    "word": "is",
+    "w": "is",
+    "line": 1,
+    "s": 7.14,
+    "e": 7.34
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 1,
+    "s": 7.36,
+    "e": 7.46
+  },
+  {
+    "word": "newest",
+    "w": "newest",
+    "line": 1,
+    "s": 7.48,
+    "e": 7.68
+  },
+  {
+    "word": "pride",
+    "w": "pride",
+    "line": 1,
+    "s": 7.7,
+    "e": 8.0
+  },
+  {
+    "word": "of",
+    "w": "of",
+    "line": 1,
+    "s": 8.02,
+    "e": 8.14
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 1,
+    "s": 8.16,
+    "e": 8.24
+  },
+  {
+    "word": "city.",
+    "w": "city.",
+    "line": 1,
+    "s": 8.26,
+    "e": 8.42
+  },
+  {
+    "word": "To",
+    "w": "To",
+    "line": 2,
+    "s": 8.66,
+    "e": 8.7
+  },
+  {
+    "word": "fit",
+    "w": "fit",
+    "line": 2,
+    "s": 8.72,
+    "e": 8.82
+  },
+  {
+    "word": "bigger,",
+    "w": "bigger,",
+    "line": 2,
+    "s": 8.84,
+    "e": 9.1
+  },
+  {
+    "word": "pricier",
+    "w": "pricier",
+    "line": 2,
+    "s": 9.1,
+    "e": 9.67
+  },
+  {
+    "word": "offices",
+    "w": "offices",
+    "line": 2,
+    "s": 9.72,
+    "e": 10.0
+  },
+  {
+    "word": "near",
+    "w": "near",
+    "line": 2,
+    "s": 10.02,
+    "e": 10.2
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 2,
+    "s": 10.22,
+    "e": 10.34
+  },
+  {
+    "word": "top,",
+    "w": "top,",
+    "line": 2,
+    "s": 10.36,
+    "e": 10.56
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 2,
+    "s": 11.02,
+    "e": 11.06
+  },
+  {
+    "word": "builders",
+    "w": "builders",
+    "line": 2,
+    "s": 11.08,
+    "e": 11.3
+  },
+  {
+    "word": "curve",
+    "w": "curve",
+    "line": 2,
+    "s": 11.32,
+    "e": 11.58
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 2,
+    "s": 11.6,
+    "e": 11.74
+  },
+  {
+    "word": "glass",
+    "w": "glass",
+    "line": 2,
+    "s": 11.76,
+    "e": 11.96
+  },
+  {
+    "word": "wall",
+    "w": "wall",
+    "line": 2,
+    "s": 11.98,
+    "e": 12.24
+  },
+  {
+    "word": "outward",
+    "w": "outward",
+    "line": 2,
+    "s": 12.26,
+    "e": 12.6
+  },
+  {
+    "word": "like",
+    "w": "like",
+    "line": 2,
+    "s": 12.62,
+    "e": 12.8
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 2,
+    "s": 12.82,
+    "e": 12.92
+  },
+  {
+    "word": "giant",
+    "w": "giant",
+    "line": 2,
+    "s": 12.94,
+    "e": 13.2
+  },
+  {
+    "word": "bowl.",
+    "w": "bowl.",
+    "line": 2,
+    "s": 13.22,
+    "e": 13.5
+  },
+  {
+    "word": "And",
+    "w": "And",
+    "line": 3,
+    "s": 13.71,
+    "e": 13.78
+  },
+  {
+    "word": "to",
+    "w": "to",
+    "line": 3,
+    "s": 13.8,
+    "e": 13.9
+  },
+  {
+    "word": "save",
+    "w": "save",
+    "line": 3,
+    "s": 13.92,
+    "e": 14.06
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 3,
+    "s": 14.08,
+    "e": 14.2
+  },
+  {
+    "word": "little",
+    "w": "little",
+    "line": 3,
+    "s": 14.22,
+    "e": 14.34
+  },
+  {
+    "word": "money",
+    "w": "money",
+    "line": 3,
+    "s": 14.36,
+    "e": 14.52
+  },
+  {
+    "word": "on",
+    "w": "on",
+    "line": 3,
+    "s": 14.54,
+    "e": 14.66
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 3,
+    "s": 14.68,
+    "e": 14.76
+  },
+  {
+    "word": "build,",
+    "w": "build,",
+    "line": 3,
+    "s": 14.78,
+    "e": 15.02
+  },
+  {
+    "word": "they",
+    "w": "they",
+    "line": 3,
+    "s": 15.24,
+    "e": 15.48
+  },
+  {
+    "word": "quietly",
+    "w": "quietly",
+    "line": 3,
+    "s": 15.5,
+    "e": 15.78
+  },
+  {
+    "word": "cut",
+    "w": "cut",
+    "line": 3,
+    "s": 15.8,
+    "e": 16.0
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 3,
+    "s": 16.02,
+    "e": 16.14
+  },
+  {
+    "word": "window",
+    "w": "window",
+    "line": 3,
+    "s": 16.16,
+    "e": 16.3
+  },
+  {
+    "word": "shades",
+    "w": "shades",
+    "line": 3,
+    "s": 16.32,
+    "e": 16.6
+  },
+  {
+    "word": "from",
+    "w": "from",
+    "line": 3,
+    "s": 16.62,
+    "e": 16.8
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 3,
+    "s": 16.82,
+    "e": 16.92
+  },
+  {
+    "word": "budget.",
+    "w": "budget.",
+    "line": 3,
+    "s": 16.94,
+    "e": 17.16
+  },
+  {
+    "word": "Then",
+    "w": "Then",
+    "line": 4,
+    "s": 17.36,
+    "e": 17.44
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 4,
+    "s": 17.46,
+    "e": 17.56
+  },
+  {
+    "word": "August",
+    "w": "August",
+    "line": 4,
+    "s": 17.58,
+    "e": 17.74
+  },
+  {
+    "word": "sun",
+    "w": "sun",
+    "line": 4,
+    "s": 17.76,
+    "e": 17.94
+  },
+  {
+    "word": "comes",
+    "w": "comes",
+    "line": 4,
+    "s": 17.96,
+    "e": 18.14
+  },
+  {
+    "word": "out.",
+    "w": "out.",
+    "line": 4,
+    "s": 18.16,
+    "e": 18.42
+  },
+  {
+    "word": "Down",
+    "w": "Down",
+    "line": 5,
+    "s": 18.6,
+    "e": 18.7
+  },
+  {
+    "word": "on",
+    "w": "on",
+    "line": 5,
+    "s": 18.72,
+    "e": 18.86
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 5,
+    "s": 18.88,
+    "e": 18.98
+  },
+  {
+    "word": "street,",
+    "w": "street,",
+    "line": 5,
+    "s": 19.0,
+    "e": 19.22
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 5,
+    "s": 19.56,
+    "e": 19.62
+  },
+  {
+    "word": "blinding",
+    "w": "blinding",
+    "line": 5,
+    "s": 19.64,
+    "e": 19.9
+  },
+  {
+    "word": "strip",
+    "w": "strip",
+    "line": 5,
+    "s": 19.92,
+    "e": 20.2
+  },
+  {
+    "word": "of",
+    "w": "of",
+    "line": 5,
+    "s": 20.22,
+    "e": 20.34
+  },
+  {
+    "word": "light",
+    "w": "light",
+    "line": 5,
+    "s": 20.36,
+    "e": 20.52
+  },
+  {
+    "word": "creeps",
+    "w": "creeps",
+    "line": 5,
+    "s": 20.54,
+    "e": 20.72
+  },
+  {
+    "word": "across",
+    "w": "across",
+    "line": 5,
+    "s": 20.74,
+    "e": 20.98
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 5,
+    "s": 21.0,
+    "e": 21.18
+  },
+  {
+    "word": "shops.",
+    "w": "shops.",
+    "line": 5,
+    "s": 21.2,
+    "e": 21.42
+  },
+  {
+    "word": "First,",
+    "w": "First,",
+    "line": 6,
+    "s": 21.74,
+    "e": 21.88
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 6,
+    "s": 22.02,
+    "e": 22.1
+  },
+  {
+    "word": "doormat",
+    "w": "doormat",
+    "line": 6,
+    "s": 22.12,
+    "e": 22.44
+  },
+  {
+    "word": "outside",
+    "w": "outside",
+    "line": 6,
+    "s": 22.46,
+    "e": 22.86
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 6,
+    "s": 22.88,
+    "e": 23.04
+  },
+  {
+    "word": "barbershop",
+    "w": "barbershop",
+    "line": 6,
+    "s": 23.06,
+    "e": 23.42
+  },
+  {
+    "word": "starts",
+    "w": "starts",
+    "line": 6,
+    "s": 23.44,
+    "e": 23.62
+  },
+  {
+    "word": "smoking.",
+    "w": "smoking.",
+    "line": 6,
+    "s": 23.64,
+    "e": 23.98
+  },
+  {
+    "word": "Next,",
+    "w": "Next,",
+    "line": 7,
+    "s": 24.24,
+    "e": 24.4
+  },
+  {
+    "word": "sidewalk",
+    "w": "sidewalk",
+    "line": 7,
+    "s": 24.48,
+    "e": 24.84
+  },
+  {
+    "word": "tiles",
+    "w": "tiles",
+    "line": 7,
+    "s": 24.85,
+    "e": 25.14
+  },
+  {
+    "word": "crack,",
+    "w": "crack,",
+    "line": 7,
+    "s": 25.16,
+    "e": 25.46
+  },
+  {
+    "word": "and",
+    "w": "and",
+    "line": 7,
+    "s": 25.48,
+    "e": 25.92
+  },
+  {
+    "word": "paint",
+    "w": "paint",
+    "line": 7,
+    "s": 25.94,
+    "e": 26.08
+  },
+  {
+    "word": "blisters",
+    "w": "blisters",
+    "line": 7,
+    "s": 26.1,
+    "e": 26.34
+  },
+  {
+    "word": "on",
+    "w": "on",
+    "line": 7,
+    "s": 26.36,
+    "e": 26.58
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 7,
+    "s": 26.6,
+    "e": 26.7
+  },
+  {
+    "word": "delivery",
+    "w": "delivery",
+    "line": 7,
+    "s": 26.72,
+    "e": 26.88
+  },
+  {
+    "word": "van.",
+    "w": "van.",
+    "line": 7,
+    "s": 26.9,
+    "e": 27.22
+  },
+  {
+    "word": "Then",
+    "w": "Then",
+    "line": 8,
+    "s": 27.387,
+    "e": 27.46
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 8,
+    "s": 27.48,
+    "e": 27.58
+  },
+  {
+    "word": "guy",
+    "w": "guy",
+    "line": 8,
+    "s": 27.6,
+    "e": 27.76
+  },
+  {
+    "word": "parks",
+    "w": "parks",
+    "line": 8,
+    "s": 27.76,
+    "e": 28.036
+  },
+  {
+    "word": "his",
+    "w": "his",
+    "line": 8,
+    "s": 28.06,
+    "e": 28.24
+  },
+  {
+    "word": "shiny",
+    "w": "shiny",
+    "line": 8,
+    "s": 28.26,
+    "e": 28.5
+  },
+  {
+    "word": "black",
+    "w": "black",
+    "line": 8,
+    "s": 28.52,
+    "e": 28.8
+  },
+  {
+    "word": "Jaguar",
+    "w": "Jaguar",
+    "line": 8,
+    "s": 28.82,
+    "e": 29.16
+  },
+  {
+    "word": "for",
+    "w": "for",
+    "line": 8,
+    "s": 29.18,
+    "e": 29.36
+  },
+  {
+    "word": "an",
+    "w": "an",
+    "line": 8,
+    "s": 29.38,
+    "e": 29.5
+  },
+  {
+    "word": "hour,",
+    "w": "hour,",
+    "line": 8,
+    "s": 29.52,
+    "e": 29.72
+  },
+  {
+    "word": "and",
+    "w": "and",
+    "line": 8,
+    "s": 29.74,
+    "e": 30.22
+  },
+  {
+    "word": "comes",
+    "w": "comes",
+    "line": 8,
+    "s": 30.24,
+    "e": 30.36
+  },
+  {
+    "word": "back",
+    "w": "back",
+    "line": 8,
+    "s": 30.38,
+    "e": 30.6
+  },
+  {
+    "word": "to",
+    "w": "to",
+    "line": 8,
+    "s": 30.62,
+    "e": 30.74
+  },
+  {
+    "word": "find",
+    "w": "find",
+    "line": 8,
+    "s": 30.76,
+    "e": 30.9
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 8,
+    "s": 30.92,
+    "e": 31.06
+  },
+  {
+    "word": "mirror",
+    "w": "mirror",
+    "line": 8,
+    "s": 31.08,
+    "e": 31.3
+  },
+  {
+    "word": "and",
+    "w": "and",
+    "line": 8,
+    "s": 31.32,
+    "e": 31.64
+  },
+  {
+    "word": "panels",
+    "w": "panels",
+    "line": 8,
+    "s": 31.66,
+    "e": 31.94
+  },
+  {
+    "word": "drooping",
+    "w": "drooping",
+    "line": 8,
+    "s": 31.96,
+    "e": 32.3
+  },
+  {
+    "word": "like",
+    "w": "like",
+    "line": 8,
+    "s": 32.32,
+    "e": 32.52
+  },
+  {
+    "word": "melted",
+    "w": "melted",
+    "line": 8,
+    "s": 32.54,
+    "e": 32.8
+  },
+  {
+    "word": "wax.",
+    "w": "wax.",
+    "line": 8,
+    "s": 32.82,
+    "e": 33.1
+  },
+  {
+    "word": "By",
+    "w": "By",
+    "line": 9,
+    "s": 33.42,
+    "e": 33.48
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 9,
+    "s": 33.5,
+    "e": 33.58
+  },
+  {
+    "word": "next",
+    "w": "next",
+    "line": 9,
+    "s": 33.6,
+    "e": 33.72
+  },
+  {
+    "word": "afternoon,",
+    "w": "afternoon,",
+    "line": 9,
+    "s": 33.74,
+    "e": 34.16
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 9,
+    "s": 34.52,
+    "e": 34.6
+  },
+  {
+    "word": "reporter",
+    "w": "reporter",
+    "line": 9,
+    "s": 34.62,
+    "e": 34.9
+  },
+  {
+    "word": "sets",
+    "w": "sets",
+    "line": 9,
+    "s": 34.92,
+    "e": 35.12
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 9,
+    "s": 35.14,
+    "e": 35.28
+  },
+  {
+    "word": "frying",
+    "w": "frying",
+    "line": 9,
+    "s": 35.3,
+    "e": 35.54
+  },
+  {
+    "word": "pan",
+    "w": "pan",
+    "line": 9,
+    "s": 35.56,
+    "e": 35.82
+  },
+  {
+    "word": "on",
+    "w": "on",
+    "line": 9,
+    "s": 35.84,
+    "e": 35.96
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 9,
+    "s": 35.98,
+    "e": 36.06
+  },
+  {
+    "word": "pavement",
+    "w": "pavement",
+    "line": 9,
+    "s": 36.08,
+    "e": 36.36
+  },
+  {
+    "word": "and",
+    "w": "and",
+    "line": 9,
+    "s": 36.38,
+    "e": 36.74
+  },
+  {
+    "word": "cooks",
+    "w": "cooks",
+    "line": 9,
+    "s": 36.76,
+    "e": 36.88
+  },
+  {
+    "word": "an",
+    "w": "an",
+    "line": 9,
+    "s": 36.9,
+    "e": 37.02
+  },
+  {
+    "word": "egg",
+    "w": "egg",
+    "line": 9,
+    "s": 37.04,
+    "e": 37.28
+  },
+  {
+    "word": "right",
+    "w": "right",
+    "line": 9,
+    "s": 37.3,
+    "e": 37.66
+  },
+  {
+    "word": "on",
+    "w": "on",
+    "line": 9,
+    "s": 37.68,
+    "e": 37.82
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 9,
+    "s": 37.84,
+    "e": 37.92
+  },
+  {
+    "word": "bricks.",
+    "w": "bricks.",
+    "line": 9,
+    "s": 37.94,
+    "e": 38.12
+  },
+  {
+    "word": "Luckily,",
+    "w": "Luckily,",
+    "line": 10,
+    "s": 38.48,
+    "e": 38.86
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 10,
+    "s": 38.88,
+    "e": 38.98
+  },
+  {
+    "word": "builders",
+    "w": "builders",
+    "line": 10,
+    "s": 38.99,
+    "e": 39.16
+  },
+  {
+    "word": "politely",
+    "w": "politely",
+    "line": 10,
+    "s": 39.18,
+    "e": 39.5
+  },
+  {
+    "word": "paid",
+    "w": "paid",
+    "line": 10,
+    "s": 39.52,
+    "e": 39.8
+  },
+  {
+    "word": "nine",
+    "w": "nine",
+    "line": 10,
+    "s": 39.8,
+    "e": 39.981
+  },
+  {
+    "word": "hundred",
+    "w": "hundred",
+    "line": 10,
+    "s": 39.996,
+    "e": 40.313
+  },
+  {
+    "word": "pounds",
+    "w": "pounds",
+    "line": 10,
+    "s": 40.34,
+    "e": 40.66
+  },
+  {
+    "word": "to",
+    "w": "to",
+    "line": 10,
+    "s": 40.68,
+    "e": 40.9
+  },
+  {
+    "word": "fix",
+    "w": "fix",
+    "line": 10,
+    "s": 40.92,
+    "e": 41.04
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 10,
+    "s": 41.06,
+    "e": 41.18
+  },
+  {
+    "word": "guy's",
+    "w": "guy's",
+    "line": 10,
+    "s": 41.2,
+    "e": 41.5
+  },
+  {
+    "word": "car.",
+    "w": "car.",
+    "line": 10,
+    "s": 41.52,
+    "e": 41.76
+  },
+  {
+    "word": "Unluckily,",
+    "w": "Unluckily,",
+    "line": 11,
+    "s": 41.906,
+    "e": 42.28
+  },
+  {
+    "word": "they",
+    "w": "they",
+    "line": 11,
+    "s": 42.5,
+    "e": 42.56
+  },
+  {
+    "word": "still",
+    "w": "still",
+    "line": 11,
+    "s": 42.58,
+    "e": 42.74
+  },
+  {
+    "word": "had",
+    "w": "had",
+    "line": 11,
+    "s": 42.76,
+    "e": 42.88
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 11,
+    "s": 42.9,
+    "e": 43.02
+  },
+  {
+    "word": "five-hundred-foot",
+    "w": "five-hundred-foot",
+    "line": 11,
+    "s": 43.02,
+    "e": 43.627
+  },
+  {
+    "word": "death",
+    "w": "death",
+    "line": 11,
+    "s": 43.68,
+    "e": 43.88
+  },
+  {
+    "word": "ray",
+    "w": "ray",
+    "line": 11,
+    "s": 43.9,
+    "e": 44.12
+  },
+  {
+    "word": "aimed",
+    "w": "aimed",
+    "line": 11,
+    "s": 44.14,
+    "e": 44.5
+  },
+  {
+    "word": "at",
+    "w": "at",
+    "line": 11,
+    "s": 44.52,
+    "e": 44.64
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 11,
+    "s": 44.66,
+    "e": 44.76
+  },
+  {
+    "word": "street.",
+    "w": "street.",
+    "line": 11,
+    "s": 44.78,
+    "e": 44.98
+  },
+  {
+    "word": "You",
+    "w": "You",
+    "line": 12,
+    "s": 45.15,
+    "e": 45.24
+  },
+  {
+    "word": "see,",
+    "w": "see,",
+    "line": 12,
+    "s": 45.25,
+    "e": 45.42
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 12,
+    "s": 45.52,
+    "e": 45.56
+  },
+  {
+    "word": "flat",
+    "w": "flat",
+    "line": 12,
+    "s": 45.58,
+    "e": 45.74
+  },
+  {
+    "word": "glass",
+    "w": "glass",
+    "line": 12,
+    "s": 45.76,
+    "e": 45.94
+  },
+  {
+    "word": "wall",
+    "w": "wall",
+    "line": 12,
+    "s": 45.96,
+    "e": 46.2
+  },
+  {
+    "word": "bounces",
+    "w": "bounces",
+    "line": 12,
+    "s": 46.22,
+    "e": 46.46
+  },
+  {
+    "word": "sunlight",
+    "w": "sunlight",
+    "line": 12,
+    "s": 46.48,
+    "e": 46.72
+  },
+  {
+    "word": "away",
+    "w": "away",
+    "line": 12,
+    "s": 46.74,
+    "e": 46.98
+  },
+  {
+    "word": "in",
+    "w": "in",
+    "line": 12,
+    "s": 47.0,
+    "e": 47.16
+  },
+  {
+    "word": "neat,",
+    "w": "neat,",
+    "line": 12,
+    "s": 47.18,
+    "e": 47.42
+  },
+  {
+    "word": "harmless",
+    "w": "harmless",
+    "line": 12,
+    "s": 47.68,
+    "e": 47.92
+  },
+  {
+    "word": "rows.",
+    "w": "rows.",
+    "line": 12,
+    "s": 47.94,
+    "e": 48.34
+  },
+  {
+    "word": "Ever",
+    "w": "Ever",
+    "line": 13,
+    "s": 48.68,
+    "e": 48.74
+  },
+  {
+    "word": "tilted",
+    "w": "tilted",
+    "line": 13,
+    "s": 48.76,
+    "e": 48.96
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 13,
+    "s": 48.98,
+    "e": 49.2
+  },
+  {
+    "word": "curved",
+    "w": "curved",
+    "line": 13,
+    "s": 49.22,
+    "e": 49.44
+  },
+  {
+    "word": "shaving",
+    "w": "shaving",
+    "line": 13,
+    "s": 49.46,
+    "e": 49.7
+  },
+  {
+    "word": "mirror",
+    "w": "mirror",
+    "line": 13,
+    "s": 49.72,
+    "e": 49.94
+  },
+  {
+    "word": "in",
+    "w": "in",
+    "line": 13,
+    "s": 49.96,
+    "e": 50.06
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 13,
+    "s": 50.08,
+    "e": 50.18
+  },
+  {
+    "word": "sun?",
+    "w": "sun?",
+    "line": 13,
+    "s": 50.2,
+    "e": 50.38
+  },
+  {
+    "word": "Every",
+    "w": "Every",
+    "line": 13,
+    "s": 50.84,
+    "e": 51.06
+  },
+  {
+    "word": "beam",
+    "w": "beam",
+    "line": 13,
+    "s": 51.08,
+    "e": 51.3
+  },
+  {
+    "word": "angles",
+    "w": "angles",
+    "line": 13,
+    "s": 51.32,
+    "e": 51.66
+  },
+  {
+    "word": "inward",
+    "w": "inward",
+    "line": 13,
+    "s": 51.68,
+    "e": 52.08
+  },
+  {
+    "word": "until",
+    "w": "until",
+    "line": 13,
+    "s": 52.1,
+    "e": 52.54
+  },
+  {
+    "word": "they",
+    "w": "they",
+    "line": 13,
+    "s": 52.56,
+    "e": 52.66
+  },
+  {
+    "word": "all",
+    "w": "all",
+    "line": 13,
+    "s": 52.68,
+    "e": 52.84
+  },
+  {
+    "word": "meet",
+    "w": "meet",
+    "line": 13,
+    "s": 52.86,
+    "e": 53.06
+  },
+  {
+    "word": "in",
+    "w": "in",
+    "line": 13,
+    "s": 53.08,
+    "e": 53.22
+  },
+  {
+    "word": "one",
+    "w": "one",
+    "line": 13,
+    "s": 53.24,
+    "e": 53.4
+  },
+  {
+    "word": "scorching",
+    "w": "scorching",
+    "line": 13,
+    "s": 53.42,
+    "e": 53.76
+  },
+  {
+    "word": "spot.",
+    "w": "spot.",
+    "line": 13,
+    "s": 53.78,
+    "e": 54.08
+  },
+  {
+    "word": "Thirty-seven",
+    "w": "Thirty-seven",
+    "line": 14,
+    "s": 54.21,
+    "e": 54.532
+  },
+  {
+    "word": "floors",
+    "w": "floors",
+    "line": 14,
+    "s": 54.56,
+    "e": 54.92
+  },
+  {
+    "word": "of",
+    "w": "of",
+    "line": 14,
+    "s": 54.94,
+    "e": 55.12
+  },
+  {
+    "word": "curved",
+    "w": "curved",
+    "line": 14,
+    "s": 55.14,
+    "e": 55.36
+  },
+  {
+    "word": "glass",
+    "w": "glass",
+    "line": 14,
+    "s": 55.38,
+    "e": 55.74
+  },
+  {
+    "word": "were",
+    "w": "were",
+    "line": 14,
+    "s": 55.76,
+    "e": 56.2
+  },
+  {
+    "word": "acting",
+    "w": "acting",
+    "line": 14,
+    "s": 56.22,
+    "e": 56.48
+  },
+  {
+    "word": "like",
+    "w": "like",
+    "line": 14,
+    "s": 56.5,
+    "e": 56.64
+  },
+  {
+    "word": "one",
+    "w": "one",
+    "line": 14,
+    "s": 56.66,
+    "e": 56.94
+  },
+  {
+    "word": "giant",
+    "w": "giant",
+    "line": 14,
+    "s": 56.96,
+    "e": 57.34
+  },
+  {
+    "word": "magnifying",
+    "w": "magnifying",
+    "line": 14,
+    "s": 57.36,
+    "e": 57.96
+  },
+  {
+    "word": "mirror",
+    "w": "mirror",
+    "line": 14,
+    "s": 57.98,
+    "e": 58.3
+  },
+  {
+    "word": "aimed",
+    "w": "aimed",
+    "line": 14,
+    "s": 58.32,
+    "e": 58.76
+  },
+  {
+    "word": "at",
+    "w": "at",
+    "line": 14,
+    "s": 58.78,
+    "e": 58.9
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 14,
+    "s": 58.92,
+    "e": 59.02
+  },
+  {
+    "word": "parking",
+    "w": "parking",
+    "line": 14,
+    "s": 59.04,
+    "e": 59.18
+  },
+  {
+    "word": "spaces.",
+    "w": "spaces.",
+    "line": 14,
+    "s": 59.2,
+    "e": 59.56
+  },
+  {
+    "word": "Nobody",
+    "w": "Nobody",
+    "line": 15,
+    "s": 59.96,
+    "e": 60.02
+  },
+  {
+    "word": "got",
+    "w": "got",
+    "line": 15,
+    "s": 60.04,
+    "e": 60.34
+  },
+  {
+    "word": "hurt,",
+    "w": "hurt,",
+    "line": 15,
+    "s": 60.36,
+    "e": 60.6
+  },
+  {
+    "word": "but",
+    "w": "but",
+    "line": 15,
+    "s": 60.94,
+    "e": 61.06
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 15,
+    "s": 61.08,
+    "e": 61.18
+  },
+  {
+    "word": "owners",
+    "w": "owners",
+    "line": 15,
+    "s": 61.2,
+    "e": 61.42
+  },
+  {
+    "word": "had",
+    "w": "had",
+    "line": 15,
+    "s": 61.44,
+    "e": 61.66
+  },
+  {
+    "word": "to",
+    "w": "to",
+    "line": 15,
+    "s": 61.68,
+    "e": 61.78
+  },
+  {
+    "word": "bolt",
+    "w": "bolt",
+    "line": 15,
+    "s": 61.8,
+    "e": 61.98
+  },
+  {
+    "word": "millions",
+    "w": "millions",
+    "line": 15,
+    "s": 62.0,
+    "e": 62.28
+  },
+  {
+    "word": "of",
+    "w": "of",
+    "line": 15,
+    "s": 62.3,
+    "e": 62.54
+  },
+  {
+    "word": "dollars",
+    "w": "dollars",
+    "line": 15,
+    "s": 62.56,
+    "e": 62.78
+  },
+  {
+    "word": "of",
+    "w": "of",
+    "line": 15,
+    "s": 62.8,
+    "e": 62.96
+  },
+  {
+    "word": "metal",
+    "w": "metal",
+    "line": 15,
+    "s": 62.98,
+    "e": 63.2
+  },
+  {
+    "word": "shades",
+    "w": "shades",
+    "line": 15,
+    "s": 63.22,
+    "e": 63.48
+  },
+  {
+    "word": "across",
+    "w": "across",
+    "line": 15,
+    "s": 63.5,
+    "e": 63.82
+  },
+  {
+    "word": "every",
+    "w": "every",
+    "line": 15,
+    "s": 63.84,
+    "e": 64.22
+  },
+  {
+    "word": "single",
+    "w": "single",
+    "line": 15,
+    "s": 64.24,
+    "e": 64.44
+  },
+  {
+    "word": "floor.",
+    "w": "floor.",
+    "line": 15,
+    "s": 64.46,
+    "e": 64.8
+  },
+  {
+    "word": "All",
+    "w": "All",
+    "line": 16,
+    "s": 64.96,
+    "e": 65.04
+  },
+  {
+    "word": "because",
+    "w": "because",
+    "line": 16,
+    "s": 65.06,
+    "e": 65.28
+  },
+  {
+    "word": "someone",
+    "w": "someone",
+    "line": 16,
+    "s": 65.3,
+    "e": 65.62
+  },
+  {
+    "word": "cut",
+    "w": "cut",
+    "line": 16,
+    "s": 65.64,
+    "e": 65.8
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 16,
+    "s": 65.82,
+    "e": 65.96
+  },
+  {
+    "word": "sunshades",
+    "w": "sunshades",
+    "line": 16,
+    "s": 65.98,
+    "e": 66.36
+  },
+  {
+    "word": "from",
+    "w": "from",
+    "line": 16,
+    "s": 66.38,
+    "e": 66.52
+  },
+  {
+    "word": "the",
+    "w": "the",
+    "line": 16,
+    "s": 66.54,
+    "e": 66.64
+  },
+  {
+    "word": "budget",
+    "w": "budget",
+    "line": 16,
+    "s": 66.66,
+    "e": 66.84
+  },
+  {
+    "word": "to",
+    "w": "to",
+    "line": 16,
+    "s": 66.86,
+    "e": 67.06
+  },
+  {
+    "word": "save",
+    "w": "save",
+    "line": 16,
+    "s": 67.08,
+    "e": 67.24
+  },
+  {
+    "word": "a",
+    "w": "a",
+    "line": 16,
+    "s": 67.26,
+    "e": 67.36
+  },
+  {
+    "word": "few",
+    "w": "few",
+    "line": 16,
+    "s": 67.38,
+    "e": 67.5
+  },
+  {
+    "word": "bucks.",
+    "w": "bucks.",
+    "line": 16,
+    "s": 67.52,
+    "e": 67.76
+  }
+]
